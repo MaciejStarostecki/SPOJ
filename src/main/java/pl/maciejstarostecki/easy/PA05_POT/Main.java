@@ -1,4 +1,4 @@
-package org.example;
+package pl.maciejstarostecki.easy.PA05_POT;
 
 import java.util.Scanner;
 

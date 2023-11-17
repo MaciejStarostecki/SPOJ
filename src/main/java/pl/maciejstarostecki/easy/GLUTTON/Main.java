@@ -1,3 +1,5 @@
+package pl.maciejstarostecki.easy.GLUTTON;
+
 import java.util.Scanner;
 
 public class Main {

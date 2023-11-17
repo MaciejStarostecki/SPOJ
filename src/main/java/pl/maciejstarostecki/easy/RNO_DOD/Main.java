@@ -1,4 +1,4 @@
-package org.example;
+package pl.maciejstarostecki.easy.RNO_DOD;
 
 import java.util.Scanner;
 

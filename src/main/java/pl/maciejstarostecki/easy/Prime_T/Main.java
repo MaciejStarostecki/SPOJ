@@ -1,4 +1,4 @@
-package org.example;
+package pl.maciejstarostecki.easy.Prime_T;
 
 import java.util.Scanner;
 

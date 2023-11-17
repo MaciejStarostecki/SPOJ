@@ -1,4 +1,4 @@
-package org.example;
+package pl.maciejstarostecki.easy.FCTRL3;
 
 import java.util.Scanner;
 

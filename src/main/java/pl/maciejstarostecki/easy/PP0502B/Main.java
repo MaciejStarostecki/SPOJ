@@ -1,3 +1,5 @@
+package pl.maciejstarostecki.easy.PP0502B;
+
 import java.util.Scanner;
 
 public class Main {

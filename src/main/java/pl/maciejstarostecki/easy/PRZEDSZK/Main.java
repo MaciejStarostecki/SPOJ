@@ -1,4 +1,4 @@
-package org.example;
+package pl.maciejstarostecki.easy.PRZEDSZK;
 
 import java.util.Scanner;
 

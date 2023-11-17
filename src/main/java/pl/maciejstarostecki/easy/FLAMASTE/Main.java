@@ -1,4 +1,4 @@
-package org.example;
+package pl.maciejstarostecki.easy.FLAMASTE;
 
 import java.util.Scanner;
 

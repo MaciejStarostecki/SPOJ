@@ -1,3 +1,5 @@
+package pl.maciejstarostecki.easy.BFN1;
+
 import java.util.Scanner;
 
 public class Main {
